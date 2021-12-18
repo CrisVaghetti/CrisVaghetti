@@ -1,0 +1,7 @@
+echo "# CrisVaghetti" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote adicionar origem git@github.com: CrisVaghetti / CrisVaghetti.git
+ git push -u origin a Principal
